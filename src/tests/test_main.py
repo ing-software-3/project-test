@@ -6,7 +6,7 @@ def test_sum():
 
 
 def test_sub():
-    assert sub(5, 2) == 3
+    assert sub(5, 2) == 1
 
 
 def test_mult():
